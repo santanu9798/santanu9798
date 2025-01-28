@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Taxibooking website](http://localhost/test/)
 
-- 🌱 I’m currently learning **Django framework**
+- 🌱 I’m currently learning **Django framework || Test generater in java **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
