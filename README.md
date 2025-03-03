@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santanu kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Taxibooking website](http://localhost/test/)
+- 🔭 I’m currently working on [Test-genarater]([http://localhost/test/](http://localhost:4200/)
 
-- 🌱 I’m currently learning **Django framework || Test generater in java **
+- 🌱 I’m currently learning **spring boot framework || Angular  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
