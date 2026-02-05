@@ -25,7 +25,6 @@
 <a href="https://linkedin.com/in/santanu-kumar-1152b0235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanu-kumar-1152b0235" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sant8579077272" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sant8579077272" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/profile/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/801110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="801110" height="30" width="40" /></a>
 <a href="https://discord.gg/santanu8075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="santanu8075" height="30" width="40" /></a>
 </p>
 
