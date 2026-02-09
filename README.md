@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santanu Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santanu9798&label=Profile%20views&color=0e75b6&style=flat" alt="santanu9798" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱I'm currently learning I’m currently learning: Currently learning Django and developing RESTful APIs with MySQL for backend systems. **Django framework, Spring Boot**
 
-- 💬 Ask me about **Python, Django REST APIs, MongoDB & FastAPI..**
+- 💬 Ask me about **HTML, CSS, Python, Django REST APIs, MongoDB & FastAPI..**
 
 - 📫 How to reach me **santanukumar.k07@gmail.com**
 
