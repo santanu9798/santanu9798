@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/santanu81977898" target="blank"><img src="https://img.shields.io/twitter/follow/santanu81977898?logo=twitter&style=for-the-badge" alt="santanu81977898" /></a> </p>
 
-- 🔭 I'm currently working on ** I’m currently working on: E-Commerce Website(Python, Django, HTML & CSS, MongoDB, Bootstrap)** **E-Commerce Website**
+- 🔭 I'm currently working on ** I’m currently working on: E-Commerce Website(Python, Django, HTML & CSS, MySql, Bootstrap)** **E-Commerce Website**
 
 - 🌱I'm currently learning I’m currently learning: Currently learning Django and developing RESTful APIs with MySQL for backend systems. **Django framework, Spring Boot**
 
